@@ -7,3 +7,4 @@ describe('E2E Login account', () => {
       cy.get('.login-container > .block-customer-login > .block-content > #login-form > .fieldset > .actions-toolbar > div.primary > #send2').click();
     });
 });
+// coba colaborator github
